@@ -1,3 +1,6 @@
+# 添加.gitignore文件之前git会track之前提交过的文件，从而在添加.gitignore文件之后依然不会被过滤掉
+# 可执行 git rm --cached filename 或 git rm -rf --cached dirname来解决问题
+
 # kdiff3 ignore
 *.orig
 

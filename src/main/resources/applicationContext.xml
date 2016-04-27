@@ -5,6 +5,5 @@
 
     <import resource="classpath:spring/applicationContext-dataSource.xml"/>
     <import resource="classpath:spring/applicationContext-web.xml"/>
-    <!--<import resource="classpath:spring/applicationContext-cache.xml"/>-->
 
 </beans>
